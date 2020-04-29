@@ -1,5 +1,9 @@
-# LogParse
-An open-source toolkit for LogParse.
+# Paper
+
+Our paper is published on The 29th International Conference on Computer Communications and Networks 
+([ICCCN 2020](http://www.icccn.org/icccn20/),). The information can be found here:
+
+* **LogParse: Making Log Parsing Adaptive through Word Classification**. Weibin Meng, Ying Liu, Federico Zaiter, Shenglin Zhang, Yihao Chen, Yuzhe Zhang, Yichen Zhu, En Wang, Ruizhi Zhang, Shimin Tao, Dian Yang, Rong Zhou, Dan Pei. August 3 - August 6, 2020, Honolulu, Hawaii, USA.#[paper link](https://netman.aiops.org/##)
 
 
 Quick Start
