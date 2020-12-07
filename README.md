@@ -251,4 +251,4 @@ ___
 
 **Note: this script is used to filter the rawlogs more specifically at a line's scale, e.g. remove the lines that do not match with some regluar rules. this is not run with logTIM and you should manually set the configuration within this file before running it. Typically, run this script with Hadoop log file to remove the sublines of a multi-line log in Hadoop rawlog file.**
 
-<font color=gray size=5>This code was completed by Weibin Meng, Yihao Chen and Yuzhe Zhang in cooperation.</font>
+<font color=gray size=5>This code was completed by @[Weibin Meng](https://github.com/WeibinMeng), @Yihao Chen and @Yuzhe Zhang in cooperation.</font>
